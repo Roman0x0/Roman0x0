@@ -10,7 +10,3 @@
 </div>
 
 ###
-
-<img src="https://raw.githubusercontent.com/Roman0x0/Roman0x0/blob/output/snake.svg" alt="Snake animation" />
-
-###
